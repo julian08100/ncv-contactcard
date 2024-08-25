@@ -30,7 +30,7 @@ For Windows, during installation, make sure to check the box that says "Add Pyth
 Once Python is installed, open your terminal (Command Prompt/PowerShell on Windows or Terminal on macOS) and run the following command to install the required Python packages:
 
 ```bash
-pip install pandas
+pip3 install csv
 ```
 
 ### Step 3: Run the Script
@@ -38,7 +38,7 @@ pip install pandas
 To generate the contact cards, run the script with:
 
 ```bash
-python vcf.py
+python3 path-to-vcf.py
 ```
 
 The script will read the `NCV.csv` file and generate a `.vcf` file containing contact cards for all students.

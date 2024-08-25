@@ -1,11 +1,5 @@
 # ncv-contactcard
 
-Here’s a revised README focused on the contact card project for students:
-
----
-
-# NCV Student Association Contact Card Generator
-
 ## Overview
 
 This project is designed for the NCV Student Association to generate contact cards for all its students. The provided Python script processes a CSV file containing student information and creates a standardized contact card that can be easily imported into address books or contact management systems.
